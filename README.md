@@ -1,2 +1,9 @@
 # hello-world
-This repository contains hello world aka basic concepts in languages
+This repository contains advanced concepts of the following languages. It's written from the perspective of a polyglot programmer
+
+* Python
+* Java
+* C++
+* R
+* SQL
+* Javascript
